@@ -43,6 +43,19 @@ To detect unauthorized local file access using PowerShell and native Windows log
 
 ## 🧪 Sample Detection Output
 
+First, we will pull up our Terminal we will be using PowerShell. Why? because I have been learning it’s not the gear it’s the person in the seat and it is that simple, lol.  We will be using PowerShell that’s right the basics.  
+![Screenshot (232)](https://github.com/user-attachments/assets/182dca79-2e0c-48db-bfa1-c24e3f76f7ea)
+We need to of course set the bait which is the basis of a honey pot be advised my firewall is down and all defenses are lowered however I have IDS and IPS in play and I real-time monitoring while performing any and all projects. The following will show my steps via terminal: 
+![Screenshot (232)](https://github.com/user-attachments/assets/8fd0cadd-5bd3-41cc-84c5-2d32487171df) now we need to get a look at view finder and get to event 4663 to see that it was accessed based on the following images: 
+![Screenshot (237)](https://github.com/user-attachments/assets/afb80459-8923-4c12-a9f3-b25ea97185e6)
+
+The Purpose of this project was to display the primary purpose of a Honey Pot and that it can be done on a basic hardtop and knowledge of a programming language
+
+
+
+
+
+
 
 
 
